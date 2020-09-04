@@ -1,35 +1,26 @@
-# 🖥 Designer
+<h1 align="center">Hi 👋, I'm Uday Kumar Madarapu</h1>
+<h3 align="center">A passionate Web and Graphic Desginer from India</h3>
 
-Hi, I'm Uday Kumar Madarapu, a passionate Web and Graphic Designer from India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykumaruking" alt="udaykumaruking" /> </p>
 
-## I am passionate about:
+- 🌱 I’m currently learning **VueJS and DSA**
 
-- Web Develpoment
-- Graphics Designing
-- Android Dev
-- Gaming
+- 📝 I regulary write articles on [https://bytes.meiosis.studio](https://bytes.meiosis.studio)
 
-## Skills
+- 💬 Ask me about **Web Development, DSA, AWS**
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/Wordpress -41b883" />
-<img src="https://img.shields.io/badge/Adobe XD -FF0000" />  
-<img src="https://img.shields.io/badge/Figma -1cc4b4" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" />  
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
-<img src="https://img.shields.io/badge/MS Office -blue" /> <img src="https://img.shields.io/badge/Python -41b883" />
-<img src="https://img.shields.io/badge/After Effects -critical" />
+- 📫 How to reach me **udaykumaruking@gmail.com**
 
-</br>
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-        <li>Linux</li>
-	</ul>
-</details>
-</br>
-</br>
-<a href="https://www.linkedin.com/in/uday-kumar-uking/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/uday_kumar_uking/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/udaykumaruking"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumaruking&layout=compact&hide=html" alt="udaykumaruking" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaykumaruking&show_icons=true" alt="udaykumaruking" /></p>
+
+<p align="center">
+<a href="https://twitter.com/udaykumaruking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="udaykumaruking" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/uday-kumar-uking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uday-kumar-uking" height="30" width="30" /></a>
+<a href="https://fb.com/udaykumaruking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udaykumaruking" height="30" width="30" /></a>
+<a href="https://instagram.com/uday_kumar_uking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uday_kumar_uking" height="30" width="30" /></a>
+<a href="https://dribbble.com/udaykumaruking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="udaykumaruking" height="30" width="30" /></a>
+</p>
