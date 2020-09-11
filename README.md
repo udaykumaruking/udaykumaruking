@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://bytes.meiosis.studio](https://bytes.meiosis.studio)
 
-- 💬 Ask me about **Web Development, DSA, AWS**
+- 💬 Ask me about **Web Development, DSA**
 
 - 📫 How to reach me **udaykumaruking@gmail.com**
 
