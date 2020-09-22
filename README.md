@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykumaruking" alt="udaykumaruking" /> </p>
 
-- 🌱 I’m currently learning **VueJS and DSA**
+- 🌱 I’m currently learning **Flutter and DSA**
 
 - 📝 I regulary write articles on [https://bytes.meiosis.studio](https://bytes.meiosis.studio)
 
