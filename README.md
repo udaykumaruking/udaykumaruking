@@ -4,6 +4,7 @@
 
 <br>
 <center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumaruking&langs_count=30&layout=compact" alt="udaykumaruking" /></p>
-<p align="center">
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumaruking&langs_count=30&layout=compact" alt="udaykumaruking" />
 <center>
+<p>
